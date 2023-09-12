@@ -1,0 +1,29 @@
+_repo: Papurikko-valakka-Ukkovaari-b-Kaksi-novellia_71573
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sulju, Meri
+    gutenberg_agent_id: '48181'
+    url: http://www.gutenberg.org/2009/agents/48181
+creator:
+  author:
+    agent_name: Petöfi, Sándor
+    gutenberg_agent_id: '56288'
+    url: http://www.gutenberg.org/2009/agents/56288
+description: ''
+gutenberg_issued: '2023-09-05'
+identifiers:
+  gutenberg: '71573'
+language: fi
+pgterms:marc905: 20220727061106petfi
+pgterms:marc906: '1909'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Papurikko-valakka. Ukkovaari. : $b Kaksi novellia'
+url: http://www.gutenberg.org/ebooks/71573
