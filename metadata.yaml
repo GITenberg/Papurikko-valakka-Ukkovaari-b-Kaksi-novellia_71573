@@ -5,12 +5,17 @@ contributor:
     agent_name: Sulju, Meri
     gutenberg_agent_id: '48181'
     url: http://www.gutenberg.org/2009/agents/48181
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Petöfi, Sándor
     gutenberg_agent_id: '56288'
     url: http://www.gutenberg.org/2009/agents/56288
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71573#Papurikko-valakka-Ukkovaari-b-Kaksi-novellia
 gutenberg_issued: '2023-09-05'
 identifiers:
   gutenberg: '71573'
